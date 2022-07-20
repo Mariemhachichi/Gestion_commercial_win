@@ -1,0 +1,31 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Admin		TAR	108	nouvelle taille enregistrement : 108
+Admin	IDSociété	RUB+		IDSociété est une nouvelle clé
+Société		TAR	774	nouvelle taille enregistrement : 774
+Société	Nom	RUB+		Nom est une nouvelle rubrique
+Société	CodePostal	CLE-*		la rubrique CodePostal n'est plus une clé
+Société	Ville	CLE-*		la rubrique Ville n'est plus une clé
+Société	Téléphone	CLE-*		la rubrique Téléphone n'est plus une clé
+Société	Email	CLE-*		la rubrique Email n'est plus une clé
+Société	IDCommercial	RUB+		IDCommercial est une nouvelle clé
+Société	Util_Login	RUB+		Util_Login est une nouvelle clé
+Agence		NFI		nouveau fichier
+Commercial		NFI		nouveau fichier
+Admin_Société		NFI		nouveau fichier
+Contrainte_Agence_Société		NWL	Société (IDSociété) et Agence (IDSociété)	Nouvelle liaison entre les fichiers Société (IDSociété) et Agence (IDSociété)
+Contrainte_Société_Admin		NWL	Société (IDSociété) et Admin_Société (IDSociété)	Nouvelle liaison entre les fichiers Société (IDSociété) et Admin_Société (IDSociété)
+Contrainte_Agence_Commercial		NWL	Agence (ID_Agence) et Commercial (ID_Agence)	Nouvelle liaison entre les fichiers Agence (ID_Agence) et Commercial (ID_Agence)
+Contrainte_Admin_Société		NWL	Admin (Util_Login) et Admin_Société (Util_Login)	Nouvelle liaison entre les fichiers Admin (Util_Login) et Admin_Société (Util_Login)
+Agence		FRN		
+Commercial		FRN		
+Agence	ID_Agence	RRN		
+Agence	Téléphone	RRN		
+Agence	Fax	RRN		
+Agence	Email	RRN		
+Commercial	IDCommercial	RRN		
+Commercial	Nom	RRN		
+Commercial	Prénom	RRN		
+Commercial	Téléphone	RRN		
+Commercial	Mobile	RRN		
+Commercial	Fax	RRN		
+Commercial	Email	RRN		

@@ -1,0 +1,13 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Client		TAR	792	nouvelle taille enregistrement : 792
+Client	Nom	CLE-*		la rubrique Nom n'est plus une clé
+Client	CodePostal	CLE-*		la rubrique CodePostal n'est plus une clé
+Client	Ville	CLE-*		la rubrique Ville n'est plus une clé
+Client	Téléphone	CLE-*		la rubrique Téléphone n'est plus une clé
+Client	Email	CLE-*		la rubrique Email n'est plus une clé
+Client	ID_Agence	RUB+		ID_Agence est une nouvelle clé
+Client	IDSociété	RUB+		IDSociété est une nouvelle clé
+Client	IDCommercial	RUB+		IDCommercial est une nouvelle clé
+Client	ID_Agence	RRN		
+Client	IDSociété	RRN		
+Client	IDCommercial	RRN		

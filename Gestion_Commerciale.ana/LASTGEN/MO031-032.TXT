@@ -1,0 +1,6 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Commande		TAR	161	nouvelle taille enregistrement : 161
+Commande	ID_Agence	RUB+		ID_Agence est une nouvelle clé
+Commande	IDSociété	RUB+		IDSociété est une nouvelle clé
+Commande	ID_Agence	RRN		
+Commande	IDSociété	RRN		

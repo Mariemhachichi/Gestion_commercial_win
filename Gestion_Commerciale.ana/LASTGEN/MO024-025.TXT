@@ -1,0 +1,18 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Société		FCNX+	MaConnexion1	
+Agence		FCNX+	MaConnexion1	
+Commercial		FCNX+	MaConnexion1	
+Login		FCNX+	MaConnexion1	
+Produit		FCNX+	MaConnexion1	
+Client		TAR	800	nouvelle taille enregistrement : 800
+Client		FCNX+	MaConnexion1	
+Client	IDCommande	RUB+		IDCommande est une nouvelle clé
+Commande		NFI		nouveau fichier
+Contrainte_Commande_Client		NWL	Commande (IDCommande) et Client (IDCommande)	Nouvelle liaison entre les fichiers Commande (IDCommande) et Client (IDCommande)
+MaConnexion1		CNX+		
+Commande	IDCommande	RRN		
+Commande	NuméroInterneCommande	RRN		
+Commande	TotalHT	RRN		
+Commande	TotalTVA	RRN		
+Commande	TotalTTC	RRN		
+Commande	IDClient	RRN		

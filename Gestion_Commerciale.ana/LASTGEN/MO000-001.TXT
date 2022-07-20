@@ -1,0 +1,5 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Tab_COMMERCIAL		NFI		nouveau fichier
+T_ASSUREUR		NFI		nouveau fichier
+T_UTILISATEUR		NFI		nouveau fichier
+mac6		CNX+		

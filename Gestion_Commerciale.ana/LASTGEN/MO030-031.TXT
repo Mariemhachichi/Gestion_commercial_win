@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Client		TAR	792	nouvelle taille enregistrement : 792
+Client	TotalTTC	RUB-		la rubrique TotalTTC est supprimée

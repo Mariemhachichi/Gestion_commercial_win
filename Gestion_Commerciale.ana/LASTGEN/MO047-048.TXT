@@ -1,0 +1,6 @@
+//MO047-048.TXT ANA00047 TO ANA00048
+Société		TAR	758	nouvelle taille enregistrement : 758
+Société	IDCommercial	RUB-		la rubrique IDCommercial est supprimée
+Société	IDProduit	RUB-		la rubrique IDProduit est supprimée
+Contrainte_Société_Produit		NWL	Société (IDSociété) et Produit (IDSociété)	Nouvelle liaison entre les fichiers Société (IDSociété) et Produit (IDSociété)
+Contrainte_Produit_Société		DEL	Produit (IDProduit) et Société (IDProduit)	Liaison supprimée entre les fichiers Produit (IDProduit) et Société (IDProduit)

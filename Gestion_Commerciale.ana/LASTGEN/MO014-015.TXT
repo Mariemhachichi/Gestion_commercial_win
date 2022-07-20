@@ -1,0 +1,19 @@
+//MO014-015.TXT ANA00014 TO ANA00015
+Admin		FCNX+	MaConnexion1	
+Société		FCNX+	MaConnexion1	
+Agence		FCNX+	MaConnexion1	
+Commercial		FCNX+	MaConnexion1	
+Login		FCNX+	MaConnexion1	
+Contrainte_Agence_Société		NWL	Société (IDSociété) et Agence (IDSociété)	Nouvelle liaison entre les fichiers Société (IDSociété) et Agence (IDSociété)
+Contrainte_Login_Commercial		NWL	Login (IDLogin) et Commercial (IDLogin)	Nouvelle liaison entre les fichiers Login (IDLogin) et Commercial (IDLogin)
+Contrainte_Agence_Commercial		NWL	Agence (ID_Agence) et Commercial (ID_Agence)	Nouvelle liaison entre les fichiers Agence (ID_Agence) et Commercial (ID_Agence)
+Contrainte_Admin_Société		NWL	Admin (Util_Login) et Société (Util_Login)	Nouvelle liaison entre les fichiers Admin (Util_Login) et Société (Util_Login)
+Contrainte_Login_Agence		NWL	Login (IDLogin) et Agence (IDLogin)	Nouvelle liaison entre les fichiers Login (IDLogin) et Agence (IDLogin)
+Contrainte_Login_Société		NWL	Login (IDLogin) et Société (IDLogin)	Nouvelle liaison entre les fichiers Login (IDLogin) et Société (IDLogin)
+Contrainte_Agence_Société		DEL	Société (IDSociété) et Agence (IDSociété)	Liaison supprimée entre les fichiers Société (IDSociété) et Agence (IDSociété)
+Contrainte_Login_Commercial		DEL	Login (IDLogin) et Commercial (IDLogin)	Liaison supprimée entre les fichiers Login (IDLogin) et Commercial (IDLogin)
+Contrainte_Agence_Commercial		DEL	Agence (ID_Agence) et Commercial (ID_Agence)	Liaison supprimée entre les fichiers Agence (ID_Agence) et Commercial (ID_Agence)
+Contrainte_Admin_Société		DEL	Admin (Util_Login) et Société (Util_Login)	Liaison supprimée entre les fichiers Admin (Util_Login) et Société (Util_Login)
+Contrainte_Login_Agence		DEL	Login (IDLogin) et Agence (IDLogin)	Liaison supprimée entre les fichiers Login (IDLogin) et Agence (IDLogin)
+Contrainte_Login_Société		DEL	Login (IDLogin) et Société (IDLogin)	Liaison supprimée entre les fichiers Login (IDLogin) et Société (IDLogin)
+MaConnexion1		CNX+		

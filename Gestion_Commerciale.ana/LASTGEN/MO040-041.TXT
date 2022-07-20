@@ -1,0 +1,5 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Client		TAR	792	nouvelle taille enregistrement : 792
+Client	IDCommande	RUB-		la rubrique IDCommande est supprimée
+Contrainte_Client_Commande		NWL	Client (IDClient) et Commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commande (IDClient)
+Contrainte_Commande_Client		DEL	Commande (IDCommande) et Client (IDCommande)	Liaison supprimée entre les fichiers Commande (IDCommande) et Client (IDCommande)

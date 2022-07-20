@@ -1,0 +1,3 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Commande		TAR	145	nouvelle taille enregistrement : 145
+Commande	ID_Agence	RUB-		la rubrique ID_Agence est supprimée

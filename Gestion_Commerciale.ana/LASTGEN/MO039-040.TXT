@@ -1,0 +1,5 @@
+//MO039-040.TXT ANA00039 TO ANA00040
+Client	IDCommande	RUB+		IDCommande est une nouvelle clé
+Client	IDCommande	RUB-		la rubrique IDCommande est supprimée
+Contrainte_Commande_Client		NWL	Commande (IDCommande) et Client (IDCommande)	Nouvelle liaison entre les fichiers Commande (IDCommande) et Client (IDCommande)
+Contrainte_Commande_Client		DEL	Commande (IDCommande) et Client (IDCommande)	Liaison supprimée entre les fichiers Commande (IDCommande) et Client (IDCommande)

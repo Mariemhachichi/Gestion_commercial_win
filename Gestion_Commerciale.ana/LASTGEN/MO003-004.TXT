@@ -1,0 +1,3 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+T_UTILISATEUR		TAR	387	nouvelle taille enregistrement : 387
+T_UTILISATEUR	UtilFonction	TAI+	30	la rubrique UtilFonction a comme nouvelle taille 51 au lieu de 21

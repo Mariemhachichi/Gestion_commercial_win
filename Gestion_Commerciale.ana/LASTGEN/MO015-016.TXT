@@ -1,0 +1,28 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+Société		TAR	774	nouvelle taille enregistrement : 774
+Société	IDLogin	RUB-		la rubrique IDLogin est supprimée
+Agence		TAR	766	nouvelle taille enregistrement : 766
+Agence	IDLogin	RUB-		la rubrique IDLogin est supprimée
+Commercial		TAR	818	nouvelle taille enregistrement : 818
+Commercial	IDSociété	RUB-		la rubrique IDSociété est supprimée
+Commercial	IDLogin	RUB-		la rubrique IDLogin est supprimée
+Login		TAR	229	nouvelle taille enregistrement : 229
+Login	Nom	RUB+		Nom est une nouvelle rubrique
+Login	Prénom	RUB+		Prénom est une nouvelle rubrique
+Login	Est_Administrateur	RUB+		Est_Administrateur est une nouvelle rubrique
+Login	Est_Société	NNR	Administrateur	ATTENTION : la rubrique Administrateur a pour nouveau nom Est_Société
+Login	Est_Société	CNW	Entier sur 4 octets$Booléen	la rubrique Est_Société a pour nouveau type Entier sur 4 octets
+Login	Est_Agence	RUB+		Est_Agence est une nouvelle rubrique
+Login	Est_Commercial	RUB+		Est_Commercial est une nouvelle rubrique
+Login	IDSociété	RUB+		IDSociété est une nouvelle clé
+Login	ID_Agence	RUB+		ID_Agence est une nouvelle clé
+Login	IDCommercial	RUB+		IDCommercial est une nouvelle clé
+Admin		FIC-	Admin	Fichier supprimé Admin
+Contrainte_Login_Agence		NWL	Agence (ID_Agence) et Login (ID_Agence)	Nouvelle liaison entre les fichiers Agence (ID_Agence) et Login (ID_Agence)
+Contrainte_Login_Commercial		NWL	Commercial (IDCommercial) et Login (IDCommercial)	Nouvelle liaison entre les fichiers Commercial (IDCommercial) et Login (IDCommercial)
+Contrainte_Login_Société		NWL	Société (IDSociété) et Login (IDSociété)	Nouvelle liaison entre les fichiers Société (IDSociété) et Login (IDSociété)
+Contrainte_Login_Commercial		DEL	Login (IDLogin) et Commercial (IDLogin)	Liaison supprimée entre les fichiers Login (IDLogin) et Commercial (IDLogin)
+Contrainte_Admin_Société		DEL	Admin (Util_Login) et Société (Util_Login)	Liaison supprimée entre les fichiers Admin (Util_Login) et Société (Util_Login)
+Contrainte_Login_Agence		DEL	Login (IDLogin) et Agence (IDLogin)	Liaison supprimée entre les fichiers Login (IDLogin) et Agence (IDLogin)
+Contrainte_Login_Société		DEL	Login (IDLogin) et Société (IDLogin)	Liaison supprimée entre les fichiers Login (IDLogin) et Société (IDLogin)
+Login	Prénom	RRN		

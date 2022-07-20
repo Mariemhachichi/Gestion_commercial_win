@@ -1,0 +1,15 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Admin		FCNX+	MaConnexion1	
+Société		FCNX+	MaConnexion1	
+Agence		FCNX+	MaConnexion1	
+Commercial		FCNX+	MaConnexion1	
+Admin_Société		FCNX+	MaConnexion1	
+Contrainte_Agence_Société		NWL	Société (IDSociété) et Agence (IDSociété)	Nouvelle liaison entre les fichiers Société (IDSociété) et Agence (IDSociété)
+Contrainte_Société_Admin		NWL	Société (IDSociété) et Admin_Société (IDSociété)	Nouvelle liaison entre les fichiers Société (IDSociété) et Admin_Société (IDSociété)
+Contrainte_Agence_Commercial		NWL	Agence (ID_Agence) et Commercial (ID_Agence)	Nouvelle liaison entre les fichiers Agence (ID_Agence) et Commercial (ID_Agence)
+Contrainte_Admin_Société		NWL	Admin (Util_Login) et Admin_Société (Util_Login)	Nouvelle liaison entre les fichiers Admin (Util_Login) et Admin_Société (Util_Login)
+Contrainte_Agence_Société		DEL	Société (IDSociété) et Agence (IDSociété)	Liaison supprimée entre les fichiers Société (IDSociété) et Agence (IDSociété)
+Contrainte_Société_Admin		DEL	Société (IDSociété) et Admin_Société (IDSociété)	Liaison supprimée entre les fichiers Société (IDSociété) et Admin_Société (IDSociété)
+Contrainte_Agence_Commercial		DEL	Agence (ID_Agence) et Commercial (ID_Agence)	Liaison supprimée entre les fichiers Agence (ID_Agence) et Commercial (ID_Agence)
+Contrainte_Admin_Société		DEL	Admin (Util_Login) et Admin_Société (Util_Login)	Liaison supprimée entre les fichiers Admin (Util_Login) et Admin_Société (Util_Login)
+MaConnexion1		CNX+		

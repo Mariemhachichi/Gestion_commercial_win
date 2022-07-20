@@ -1,0 +1,27 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+Admin		TAR	75	nouvelle taille enregistrement : 75
+Admin	IDLogin	RUB+		IDLogin est une nouvelle clé
+Admin	MotDePasse	RUB-		la rubrique MotDePasse est supprimée
+Société		TAR	782	nouvelle taille enregistrement : 782
+Société	IDLogin	RUB+		IDLogin est une nouvelle clé
+Agence		TAR	774	nouvelle taille enregistrement : 774
+Agence	IDLogin	RUB+		IDLogin est une nouvelle clé
+Commercial		TAR	834	nouvelle taille enregistrement : 834
+Commercial	IDLogin	RUB+		IDLogin est une nouvelle clé
+Login		NFI		nouveau fichier
+Admin_Société		FIC-	Admin_Société	Fichier supprimé Admin_Société
+Contrainte_Login_Commercial		NWL	Login (IDLogin) et Commercial (IDLogin)	Nouvelle liaison entre les fichiers Login (IDLogin) et Commercial (IDLogin)
+Contrainte_Admin_Société		NWL	Admin (Util_Login) et Société (Util_Login)	Nouvelle liaison entre les fichiers Admin (Util_Login) et Société (Util_Login)
+Contrainte_Login_Agence		NWL	Login (IDLogin) et Agence (IDLogin)	Nouvelle liaison entre les fichiers Login (IDLogin) et Agence (IDLogin)
+Contrainte_Login_Société		NWL	Login (IDLogin) et Société (IDLogin)	Nouvelle liaison entre les fichiers Login (IDLogin) et Société (IDLogin)
+Contrainte_Société_Admin		DEL	Société (IDSociété) et Admin_Société (IDSociété)	Liaison supprimée entre les fichiers Société (IDSociété) et Admin_Société (IDSociété)
+Contrainte_Admin_Société		DEL	Admin (Util_Login) et Admin_Société (Util_Login)	Liaison supprimée entre les fichiers Admin (Util_Login) et Admin_Société (Util_Login)
+MaConnexion1		CNX		
+Login		FRN		
+Login	IDLogin	RRN		
+Login	IDLogin	RRN		
+Login	login	RRN		
+Login	login	RRN		
+Login	MotDePasse	RRN		
+Login	MotDePasse	RRN		
+Admin	IDLogin	RRN		

@@ -1,0 +1,20 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Société		TAR	774	nouvelle taille enregistrement : 774
+Société		FCNX+	MaConnexion1	
+Société	IDProduit	RUB+		IDProduit est une nouvelle clé
+Agence		FCNX+	MaConnexion1	
+Commercial		FCNX+	MaConnexion1	
+Commercial	IDClient	RUB+		IDClient est une nouvelle clé
+Commercial	IDProduit	RUB-		la rubrique IDProduit est supprimée
+Login		FCNX+	MaConnexion1	
+Produit		FCNX+	MaConnexion1	
+Client		NFI		nouveau fichier
+Contrainte_Produit_Société		NWL	Produit (IDProduit) et Société (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et Société (IDProduit)
+Contrainte_Client_Commercial		NWL	Client (IDClient) et Commercial (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commercial (IDClient)
+Contrainte_Commercial_Produit		DEL	Produit (IDProduit) et Commercial (IDProduit)	Liaison supprimée entre les fichiers Produit (IDProduit) et Commercial (IDProduit)
+MaConnexion1		CNX+		
+Client	IDClient	RRN		
+Client	Nom	RRN		
+Client	Prénom	RRN		
+Client	Téléphone	RRN		
+Client	Email	RRN		

@@ -1,0 +1,3 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Commande		TAR	153	nouvelle taille enregistrement : 153
+Commande	ID_Agence	RUB+		ID_Agence est une nouvelle clé

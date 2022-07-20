@@ -1,0 +1,4 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Client		TAR	792	nouvelle taille enregistrement : 792
+Client	IDCommande	RUB-		la rubrique IDCommande est supprimée
+Contrainte_Commande_Client		DEL	Commande (IDCommande) et Client (IDCommande)	Liaison supprimée entre les fichiers Commande (IDCommande) et Client (IDCommande)

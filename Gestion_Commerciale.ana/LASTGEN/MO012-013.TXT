@@ -1,0 +1,7 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+Admin		FCNX+	MaConnexion2	
+Société		FCNX+	MaConnexion2	
+Agence		FCNX+	MaConnexion2	
+Commercial		FCNX+	MaConnexion2	
+Admin_Société		FCNX+	MaConnexion2	
+MaConnexion2		CNX+		

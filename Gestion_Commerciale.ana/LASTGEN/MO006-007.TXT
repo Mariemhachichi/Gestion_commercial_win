@@ -1,0 +1,12 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Admin		NFI		nouveau fichier
+Société		NFI		nouveau fichier
+Admin		FRN		
+Société		FRN		
+Admin	Util_Login	RRN		
+Admin	Utilisateur	RRN		
+Admin	MotDePasse	RRN		
+Société	IDSociété	RRN		
+Société	Téléphone	RRN		
+Société	Fax	RRN		
+Société	Email	RRN		

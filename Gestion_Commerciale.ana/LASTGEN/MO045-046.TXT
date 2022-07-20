@@ -1,0 +1,4 @@
+//MO045-046.TXT ANA00045 TO ANA00046
+Contrainte_Produit_Commande		MCL	1,1->0,1	
+Contrainte_Commande_Produit		MCL	1,n->0,n	
+Contrainte_Commande_Produit		MCL	1,1->0,1	

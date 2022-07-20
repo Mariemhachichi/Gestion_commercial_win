@@ -1,0 +1,22 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+Société		FCNX+	MaConnexion1	
+Agence		FCNX+	MaConnexion1	
+Commercial		TAR	826	nouvelle taille enregistrement : 826
+Commercial		FCNX+	MaConnexion1	
+Commercial	IDProduit	RUB+		IDProduit est une nouvelle clé
+Login		FCNX+	MaConnexion1	
+Produit		NFI		nouveau fichier
+Contrainte_Commercial_Produit		NWL	Produit (IDProduit) et Commercial (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et Commercial (IDProduit)
+MaConnexion1		CNX+		
+Produit	IDProduit	RRN		
+Produit	IDProduit	RRN		
+Produit	Référence	RRN		
+Produit	Référence	RRN		
+Produit	Libellé	RRN		
+Produit	Libellé	RRN		
+Produit	PrixHT	RRN		
+Produit	PrixHT	RRN		
+Produit	TauxTVA	RRN		
+Produit	TauxTVA	RRN		
+Produit	ID_Agence	RRN		
+Produit	IDSociété	RRN		

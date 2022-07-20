@@ -1,0 +1,12 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Admin		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Admin		FCNX+	MaConnexion1	
+Société		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Société		FCNX+	MaConnexion1	
+Agence		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Agence		FCNX+	MaConnexion1	
+Commercial		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Commercial		FCNX+	MaConnexion1	
+Admin_Société		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Admin_Société		FCNX+	MaConnexion1	
+MaConnexion1		CNX+		

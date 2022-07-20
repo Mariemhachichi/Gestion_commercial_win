@@ -1,0 +1,13 @@
+//MO043-044.TXT ANA00043 TO ANA00044
+Société		FCNX+	MaConnexion1	
+Agence		FCNX+	MaConnexion1	
+Commercial		FCNX+	MaConnexion1	
+Login		FCNX+	MaConnexion1	
+Produit		FCNX+	MaConnexion1	
+Client		FCNX+	MaConnexion1	
+Commande		FCNX+	MaConnexion1	
+Ligne_Commande		NFI		nouveau fichier
+Contrainte_Produit_Commande		NWL	Produit (IDProduit) et Ligne_Commande (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et Ligne_Commande (IDProduit)
+Contrainte_Commande_Produit		NWL	Commande (IDCommande) et Ligne_Commande (IDCommande)	Nouvelle liaison entre les fichiers Commande (IDCommande) et Ligne_Commande (IDCommande)
+MaConnexion1		CNX+		
+Ligne_Commande		FRN		

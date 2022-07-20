@@ -1,0 +1,9 @@
+//MO042-043.TXT ANA00042 TO ANA00043
+Société		FCNX+	MaConnexion1	
+Agence		FCNX+	MaConnexion1	
+Commercial		FCNX+	MaConnexion1	
+Login		FCNX+	MaConnexion1	
+Produit		FCNX+	MaConnexion1	
+Client		FCNX+	MaConnexion1	
+Commande		FCNX+	MaConnexion1	
+MaConnexion1		CNX+		

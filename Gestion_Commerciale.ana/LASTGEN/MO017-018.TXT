@@ -1,0 +1,3 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Société		TAR	766	nouvelle taille enregistrement : 766
+Société	Util_Login	RUB-		la rubrique Util_Login est supprimée

@@ -1,0 +1,5 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Client		TAR	806	nouvelle taille enregistrement : 806
+Client	NB_Commandes	RUB+		NB_Commandes est une nouvelle rubrique
+Client	TotalTTC	RUB+		TotalTTC est une nouvelle rubrique
+Client	TotalTTC	RRN		

@@ -1,0 +1,5 @@
+//MO038-039.TXT ANA00038 TO ANA00039
+Client		TAR	800	nouvelle taille enregistrement : 800
+Client	IDCommande	RUB+		IDCommande est une nouvelle clé
+Contrainte_Commande_Client		NWL	Commande (IDCommande) et Client (IDCommande)	Nouvelle liaison entre les fichiers Commande (IDCommande) et Client (IDCommande)
+Contrainte_Commande_Client		DEL	Client (IDClient) et Commande (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Commande (IDClient)

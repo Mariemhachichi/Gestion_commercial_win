@@ -1,0 +1,4 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Client		TAR	792	nouvelle taille enregistrement : 792
+Client	NB_Commandes	RUB-		la rubrique NB_Commandes est supprimée
+Client	TotalTTC	RUB-		la rubrique TotalTTC est supprimée

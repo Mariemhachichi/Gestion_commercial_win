@@ -1,0 +1,10 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+Ligne_Commande		TAR	93	nouvelle taille enregistrement : 93
+Ligne_Commande	Libellé	RUB+		Libellé est une nouvelle rubrique
+Ligne_Commande	Description	RUB+		Description est une nouvelle rubrique
+Ligne_Commande	Quantité	RUB+		Quantité est une nouvelle rubrique
+Ligne_Commande	PrixHT	RUB+		PrixHT est une nouvelle rubrique
+Ligne_Commande	TauxTVA	RUB+		TauxTVA est une nouvelle rubrique
+Ligne_Commande	Libellé	RRN		
+Ligne_Commande	PrixHT	RRN		
+Ligne_Commande	TauxTVA	RRN		

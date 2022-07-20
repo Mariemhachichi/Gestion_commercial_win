@@ -1,0 +1,5 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Login		TAR	220	nouvelle taille enregistrement : 220
+Login	Est_Administrateur	CNW	Booléen$Entier sur 4 octets	la rubrique Est_Administrateur a pour nouveau type Booléen
+Login	Est_Société	CNW	Booléen$Entier sur 4 octets	la rubrique Est_Société a pour nouveau type Booléen
+Login	Est_Agence	CNW	Booléen$Entier sur 4 octets	la rubrique Est_Agence a pour nouveau type Booléen

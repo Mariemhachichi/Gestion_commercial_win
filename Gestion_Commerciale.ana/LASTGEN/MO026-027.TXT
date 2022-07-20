@@ -1,0 +1,6 @@
+//MO026-027.TXT ANA00026 TO ANA00027
+Commercial		TAR	818	nouvelle taille enregistrement : 818
+Commercial	IDClient	RUB-		la rubrique IDClient est supprimée
+Contrainte_Commercial_Client		NWL	Commercial (IDCommercial) et Client (IDCommercial)	Nouvelle liaison entre les fichiers Commercial (IDCommercial) et Client (IDCommercial)
+Contrainte_Client_Commande		NWL	Client (IDClient) et Commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commande (IDClient)
+Contrainte_Client_Commercial		DEL	Client (IDClient) et Commercial (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Commercial (IDClient)

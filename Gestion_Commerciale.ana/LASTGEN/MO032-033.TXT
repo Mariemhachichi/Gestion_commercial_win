@@ -1,0 +1,12 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Produit		TAR	181	nouvelle taille enregistrement : 181
+Produit	Unité	RUB+		Unité est une nouvelle rubrique
+Commande		TAR	145	nouvelle taille enregistrement : 145
+Commande	ID_Agence	RUB-		la rubrique ID_Agence est supprimée
+Commande	IDSociété	RUB-		la rubrique IDSociété est supprimée
+Ligne_Commande		NFI		nouveau fichier
+Contrainte_Commande_Produit		NWL	Commande (IDCommande) et Ligne_Commande (IDCommande)	Nouvelle liaison entre les fichiers Commande (IDCommande) et Ligne_Commande (IDCommande)
+Contrainte_Produit_Commande		NWL	Produit (IDProduit) et Ligne_Commande (IDProduit)	Nouvelle liaison entre les fichiers Produit (IDProduit) et Ligne_Commande (IDProduit)
+Ligne_Commande		FRN		
+Ligne_Commande	PrixHT	RRN		
+Ligne_Commande	TauxTVA	RRN		
